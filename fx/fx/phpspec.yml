@@ -1,0 +1,5 @@
+odssuites:
+    main:
+        namespace: App
+        psr4_prefix: App
+        src_path: app
